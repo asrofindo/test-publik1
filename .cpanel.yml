@@ -1,6 +1,0 @@
----
-deployment:
-tasks:
-- export DEPLOYPATH=/home/trenbisn/test.trenbisnis.net/
-- /bin/cp index.html $DEPLOYPATH
-- /bin/cp test.htm $DEPLOYPATH
